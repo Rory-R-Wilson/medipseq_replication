@@ -8,7 +8,7 @@ This code runs analysis for the paper "Genetic variation influencing DNA methyla
 
 The R scripts are found in 'code/' and are the two files: 
 
-* step_1_map_HSM_LD_assoc_to_SNP_CpG.r
+* *step_1_map_HSM_LD_assoc_to_SNP_CpG.r*
 * step_2_calculate_enrichment_above_bg.R
 
 ### Step 1: Mapping HSM-LD associations to SNP-CpG
