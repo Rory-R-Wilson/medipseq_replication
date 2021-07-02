@@ -46,9 +46,9 @@ The linear regression (association) results of the 100 sets of matched SNP-CpG p
 
 ## Notes
 
-It is possible to completely reconstruct the results from the data found here. However, the data presented here are not raw data. Specifically, the following cannot be performed due to data privacy reasons: 
+It is possible to completely reconstruct the results from the data found here. However, the data presented here are not raw data. Specifically, after step_1, the following cannot be performed due to data privacy reasons: 
 
-* following step_1, we mapped the CpG-SNP pairs generated in step_1 to 100 sets of matched background CpG-SNP pairs. 
-* For the the CpG-SNPs pairs and then their matched sets, we used individual-level KORA F4 data to check the associations, using linear regression. 
+* we mapped the CpG-SNP pairs generated in step_1 to 100 sets of matched background CpG-SNP pairs
+* for the the CpG-SNPs pairs and then their matched sets, we used individual-level KORA F4 data to check the associations, using linear regression
 
 The results of these analyses (*medip_replication_results.txt* and *medip_matched_background_results.txt*) are then used as inputs for step_2.
