@@ -51,4 +51,4 @@ It is possible to completely reconstruct the results from the data found here. H
 * following step_1, we mapped the CpG-SNP pairs generated in step_1 to 100 sets of matched background CpG-SNP pairs. 
 * For the the CpG-SNPs pairs and then their matched sets, we used individual-level KORA F4 data to check the associations, using linear regression. 
 
-The results of these analyses are then used as inputs for step_2.
+The results of these analyses (*medip_replication_results.txt* and *medip_matched_background_results.txt*) are then used as inputs for step_2.
