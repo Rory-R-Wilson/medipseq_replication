@@ -4,7 +4,7 @@
 
 This code runs analysis for the paper "Genetic variation influencing DNA methylation provides new insights into the molecular pathways regulating genomic function" by Hawe et al. Specifically, it runs the analysis for replicating the HSM-LD block associations from the MeDIP-seq results of Bell et al. (PMID: 29295990).
 
-## Scripts
+## Code
 
 The R scripts are found in 'code/' and are the two files: 
 
